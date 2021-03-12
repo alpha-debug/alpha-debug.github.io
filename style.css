@@ -121,5 +121,7 @@ p.about{
     transform:rotate(20 deg);
     z-index:2;
     font-size: 30px;
-    font-family: Arial;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+
